@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![ESSALIH Anasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=essalihanasse)](https://github.com/anuraghazra/github-readme-stats)
-
+![ESSALIH Anasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=essalihanasse&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🔭 I’m currently studying for my master's degree of Data Science at l'Ecole Polytechnique.
 - 🌱 I’m currently learning Big Data Frameworks, Hidden Markov Models and Monte Carlo Markov Chains Methods.
